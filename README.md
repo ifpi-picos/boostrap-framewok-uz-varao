@@ -1,2 +1,2 @@
-# bootstrap-framework-starter
-Repositório com o framework bootstrap
+# Bootstrap-framework-starter
+Repositório com o framework bootstrap pronto para usado!
